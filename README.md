@@ -16,12 +16,6 @@
       height: 2px;
       width: 30%;
     }
-    h1{
-    color: #66BFBF
-    }
-    h3{
-    color: #66BFBF
-    }
   </style>
 
 </head>
